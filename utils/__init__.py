@@ -1,0 +1,1 @@
+"""StudyMate AI — Utility modules."""
